@@ -14,6 +14,7 @@ You will need to:
 - Deploy your contract, using cairo-lang
 - Brag to your friends, using Twitter
 
+  Eat Pussy
 ## Clone this repo
 ```bash
 git clone https://github.com/starknet-edu/deploy-cairo1-demo
