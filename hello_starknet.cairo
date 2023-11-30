@@ -15,3 +15,5 @@ mod HelloStarknet {
     }
 
 }
+#[Event]
+fn Hello
