@@ -79,7 +79,7 @@ Congratulations, you have compiled your contracts from Cairo to Sierra!
 export STARKNET_NETWORK=alpha-goerli
 export STARKNET_WALLET=starkware.starknet.wallets.open_zeppelin.OpenZeppelinAccount
 ```
-
+hi
 ### Setting a new account for the tutorial
 
 You need to make sure your starknet CLI is set up with a proper account contract, and funds. For safety, I'll create a new one just for this tutorial.
